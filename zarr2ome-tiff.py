@@ -16,8 +16,8 @@ NUMPY_FORMAT_BF_DTYPE = {'uint8': 'uint8',
 
 
 
-save_path = '/glusterfs/b20_D3/WSI/hongyiyu/multiplexed_imaging/250227/tmp/zarr_3_2.ome.tif'
-tmp_zarr_path = '/glusterfs/b20_D3/WSI/hongyiyu/multiplexed_imaging/250227/tmp/zarr_tmp.zarr'
+save_path = 'output.ome.tif'
+tmp_zarr_path = 'temp.zarr'
 
 
 ### multi-channel channel-name
